@@ -3,7 +3,7 @@
 
 1. Instalaciones:
 ```
-npm install --save-dev jest babel-jest @babel/preset-env @babel/preset-react 
+npm install --save-dev jest babel-jest @babel/preset-env @babel/preset-react
 npm install --save-dev @testing-library/react @types/jest jest-environment-jsdom
 ```
 
